@@ -6,6 +6,11 @@ Backup
 Build
 Plugins
 
+Content/LevelPrototyping/**
+Content/Characters/**
+Content/Input/**
+Content/ThirdPerson/**
+
 .idea
 .vscode
 .vs
