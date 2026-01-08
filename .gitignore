@@ -10,6 +10,7 @@ Content/LevelPrototyping/**
 Content/Characters/**
 Content/Input/**
 Content/ThirdPerson/**
+Content/FPS_Weapon_Bundle/**
 
 .idea
 .vscode
