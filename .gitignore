@@ -13,6 +13,10 @@ Content/ThirdPerson/**
 Content/FPS_Weapon_Bundle/**
 Content/FXVarietyPack/**
 Content/StarterContent/**
+Content/AnimStarterPack/**
+Content/ParagonLtBelica/**
+Content/_Main/Player/Animations/**
+Content/_Main/Assets/Shootables/Fractures/**
 
 .idea
 .vscode
